@@ -1,7 +1,7 @@
 variable "sg" {
-  
+
 }
 
 variable "sn" {
-  
+
 }
